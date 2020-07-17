@@ -14,7 +14,7 @@ $ pip2 install mechanize
 
 $ git clone https://github.com/bima210/tytyd
 
-$ cd Fb-Cracker-v.3
+$ cd tytyd
 
 $ python2 crack.py
 
